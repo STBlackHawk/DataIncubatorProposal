@@ -1,3 +1,2 @@
 # DataIncubatorProposal
-Proposal for the Data Incubator Challenge
-Read The Pdf file please
+Proposal for the Data Incubator Challenge, read The Pdf file please
